@@ -1,6 +1,7 @@
 # 12/02/15 
 
-___This homework is due by 8am, on 11/03/2015___
+
+___This homework is due by 8am, on 11/03/2015_
 
 ## Objectives
 
